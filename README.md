@@ -1,5 +1,6 @@
 
 *Setup steps
+
 Setup the provider, S3 bucket for the remote state and DynamoDB table for state locking , setup a (Backend), a Lambda function, SQS queues, Lambda Event Trigger, Workspaces (for environments), Variables and finally Terraform.tfvars.
 
 
